@@ -1,0 +1,14 @@
+/Users/ariela/projects/simCar/SimulatedCar/bin/Debug/net10.0/SimulatedCar
+/Users/ariela/projects/simCar/SimulatedCar/bin/Debug/net10.0/SimulatedCar.deps.json
+/Users/ariela/projects/simCar/SimulatedCar/bin/Debug/net10.0/SimulatedCar.runtimeconfig.json
+/Users/ariela/projects/simCar/SimulatedCar/bin/Debug/net10.0/SimulatedCar.dll
+/Users/ariela/projects/simCar/SimulatedCar/bin/Debug/net10.0/SimulatedCar.pdb
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.AssemblyInfoInputs.cache
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.AssemblyInfo.cs
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.csproj.CoreCompileInputs.cache
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.dll
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/refint/SimulatedCar.dll
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.pdb
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/SimulatedCar.genruntimeconfig.cache
+/Users/ariela/projects/simCar/SimulatedCar/obj/Debug/net10.0/ref/SimulatedCar.dll
